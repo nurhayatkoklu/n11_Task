@@ -1,0 +1,7 @@
+1668414579533	geckodriver	INFO	Listening on 127.0.0.1:55876
+1668414579982	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64312" "--remote-allow-hosts" "localhost" "--remote-allow-origins" "http://127.0.0.1:64312/,http://localhost:64312/,http://[::1]:64312/" "-no-remote" "-profile" "C:\\Users\\Nurhayat\\AppData\\Local\\Temp\\rust_mozprofileBxCKjX"
+1668414581106	Marionette	INFO	Marionette enabled
+1668414581116	Marionette	INFO	Listening on port 61201
+Read port: 61201
+WebDriver BiDi listening on ws://127.0.0.1:64312
+1668414581401	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
